@@ -1,0 +1,62 @@
+*{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: #00AEFA ;
+  
+}
+
+  h1{
+    font-size: medium;
+    color:#feaa13;
+    
+}
+ 
+   h2{
+       color: #feaa13;
+
+
+
+}
+
+    h3, h4, h5{
+        color:white;
+    }
+   image{
+       background-color: #00AEFA;
+       
+}
+    table{
+    width: 35cm;
+    text-align: center;
+    align-items: left;
+
+    }
+
+   td{
+       background-color: aliceblue;
+}
+
+   tr{
+      font-family: Georgia, 'Times New Roman', Times, serif;
+      border: orange;
+}
+   
+
+   footer{
+       border: orange;
+       text-align: center;
+       
+
+}
+
+   .different{
+       
+       color: #feaa13;
+   }
+
+   .diferent{
+       color: white;
+   }
+
+   li{
+       color: white;
+   }
